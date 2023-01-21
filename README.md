@@ -1,4 +1,4 @@
-# 數位邏輯 學習成果
+# 數位邏輯 學習成果 
 
 這學期的數位邏輯課程讓我學到基礎的進制轉換原理，
 於是我打算使用python寫出一個簡單的進制轉換器來加深自己的基礎。
@@ -19,5 +19,5 @@
 
 7.使用Python的判斷式來處理當base或decimal_number不符合預期時的錯誤
 
-寫好程式碼之後使用PyInstaller將Python打包成exe檔方便開啟及使用
+# 寫好程式碼之後使用PyInstaller將Python打包成exe檔方便開啟及使用
 參考網址：https://reurl.cc/X51WOR
