@@ -21,3 +21,4 @@
 
 # 寫好程式碼之後使用PyInstaller將Python打包成exe檔方便開啟及使用
 參考網址：https://reurl.cc/X51WOR
+![示例](https://user-images.githubusercontent.com/107038508/213846372-0a6b6318-f81c-40a2-a835-9900ee69cbaa.png)
